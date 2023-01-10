@@ -3,7 +3,8 @@
 
 
 columns = 52
-arn,diff, LOC, BCS, Mperson, Mym, iMage, Mage, Sym, iSage, Sage, T1, T2, T3, T4, T5, T6,T7, T8, T9, T10, T11, T12, T13,T14, T15, T16, T17, T18, T19,G1,G2,G3,G4,G5,G6, FS, BH,BL,BD,RL,HL,cw,ema,bf,ms,tprice,p_cw, p_ema, p_bf, p_ms, p_tprice
+
+arn, diff, LOC, BCS, Mperson, Mym, iMage, Mage, Sym, iSage, Sage, T1, T2, T3, T4, T5, T6,T7, T8, T9, T10, T11, T12, T13,T14, T15, T16, T17, T18, T19,G1,G2,G3,G4,G5,G6, FS, BH,BL,BD,RL,HL,cw,ema,bf,ms,tprice,p_cw, p_ema, p_bf, p_ms, p_tprice
 
 arn = 개체 번호
 
